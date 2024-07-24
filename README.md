@@ -16,7 +16,7 @@ A powerful tool for reverse engineering grabbers (malware) to extract webhooks a
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/lalaio1/Gb_Analizer.git
-    cd grabber-deobfuscator
+    cd Gb_Analizer
     ```
 
 2. **Install dependencies**:
@@ -29,15 +29,13 @@ A powerful tool for reverse engineering grabbers (malware) to extract webhooks a
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/lalaio1/Gb_Analizer.git
-    cd grabber-deobfuscator
+    cd Gb_Analizer
     ```
 
 2. **Install dependencies**:
     ```sh
     pip install -r requirements.txt
     ```
-
-
 
 > **Note**: Python 3.9 or higher is required.
 
@@ -69,10 +67,10 @@ python deobfuscator.py example_grabber.py -j
 }
 ```
 
+## 🛠️ Development Status
+
+**Note**: This tool is currently in the alpha stage and is still under active testing. Users may experience bugs or incomplete features. Your feedback and contributions are welcome to improve the tool.
+
 ## 👨‍💻 Author
 
-- Developed by TaxMachine. Please give a star on [GitHub](https://github.com/lalaio1).
-
-## 📝 License
-
-This project is licensed under the MIT License.
+- Developed by lalaio1. Please give a star on [GitHub](https://github.com/lalaio1).
