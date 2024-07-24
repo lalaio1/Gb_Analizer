@@ -1,0 +1,32 @@
+{
+    "deletemessage": {
+        "content": ":clown: @everyone :clown:",
+        "embeds": [
+            {
+                "title": "Sua Webhook For Deletada :: By Alban Famly",
+                "description": "kakakakakakakakakkakk, vc tem q chupar muita pika mesmo",
+                "color": 16711680,
+                "author": {
+                    "name": "Albanian no topo",
+                    "url": "https://github.com/lalaio1"
+                }
+            }
+        ]
+    },
+    "spammessage": {
+        "content": "@everyone",
+        "embeds": [
+            {
+                "title": "Ix, parece que alguem tentou fazer merdas",
+                "description": "Otario kkkkkk, Acha q vai grabblar alguem assim?",
+                "color": 16711680,
+                "author": {
+                    "name": "Albanian no topo",
+                    "url": "https://github.com/lalaio1"
+                }
+            }
+        ]
+    },
+    "deleteafterdeobf": false,
+    "telegram_message": "teste"
+}
